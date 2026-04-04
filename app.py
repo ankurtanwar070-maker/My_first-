@@ -9,7 +9,7 @@ import os
 # Page Config
 # =========================
 st.set_page_config(
-    page_title="Marketing Response Analyzer",
+    page_title="Bank Marketing Dataset",
     layout="wide",
     initial_sidebar_state="expanded"
 )
