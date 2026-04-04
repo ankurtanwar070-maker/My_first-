@@ -57,7 +57,7 @@ model, scaler, le_dict = load_model()
 # =========================
 # Header
 # =========================
-st.markdown("# 📊 Marketing Response Analyzer")
+st.markdown("# Bank Marketing Dataset")
 st.markdown("*Predict customer subscription likelihood using machine learning*")
 
 # =========================
