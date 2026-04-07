@@ -9,7 +9,7 @@ import os
 # Page Config
 # =========================
 st.set_page_config(
-    page_title="Bank Marketing Dataset",
+    page_title="Marketing Response Analyzer",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -57,7 +57,7 @@ model, scaler, le_dict = load_model()
 # =========================
 # Header
 # =========================
-st.markdown("# Bank Marketing Dataset")
+st.markdown("# Marketing Response Analyzer")
 st.markdown("*Predict customer subscription likelihood using machine learning*")
 
 # =========================
